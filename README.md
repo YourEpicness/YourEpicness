@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![YourEpicness's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourEpicness)](https://github.com/YourEpicness/github-readme-stats)
 -->
 Welcome to my page. 
 Currently a work in progress but will update once I have more wonderful things to share
 - 🌱 I’m currently learning Javascript, React, Docker, and K8s
 - 📫 How to reach me: Email or linkedIn
 
-[![YourEpicness's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourEpicness)](https://github.com/YourEpicness/github-readme-stats)
+
