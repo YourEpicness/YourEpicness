@@ -21,4 +21,4 @@ I'm Jeebe. I'm a fullstack Javascript developer who is proficient with the MERN 
 - 🌱 I’m currently learning GraphQL, NextJS, Gatsby, AWS, Serverless.
 - 📫 How to reach me: Email or linkedIn
 
-[![YourEpicness's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourEpicness)](https://github.com/YourEpicness/github-readme-stats)
+[![YourEpicness's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourEpicness&show_icons=true&theme=dark)](https://github.com/YourEpicness/github-readme-stats)
