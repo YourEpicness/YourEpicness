@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my page. 
 I'm Jeebe. I'm a fullstack Javascript/Typescript developer who is proficient with the MERN stack. Also familiar with Docker, Kubernetes, and microservices architecture.
 - 🔭 I’m currently working on building a startup.
-- 🌱 I’m currently learning GraphQL, NextJS, Gatsby, AWS, Serverless.
+- 🌱 I’m currently learning ThreeJs, Angular, and Racket
 - 📫 How to reach me: Email or linkedIn
 
 [![YourEpicness's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourEpicness&show_icons=true&theme=dark)](https://github.com/YourEpicness/github-readme-stats)
